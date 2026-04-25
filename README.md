@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا عمري إنت النور في وسط ليالي
+> سحرك خطف روحي وشغل لي بالي
+> أنا دنيتي بتحلى بيك يا غالي
+> خليك هنا جنبي وحس بحالي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
