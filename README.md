@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ya-3omri-enta-el-noor-oh-my-life-you-are-the-light/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get License For Ya 3omri Enta El Noor – Oh My Life, You Are the Light](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
