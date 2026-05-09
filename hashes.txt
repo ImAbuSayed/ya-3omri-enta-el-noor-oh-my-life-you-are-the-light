@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ya 3omri Enta El Noor – Oh My Life, You Are the Light
+
+This log tracks the cryptographic history and versioning for the song **Ya 3omri Enta El Noor – Oh My Life, You Are the Light** (ya-3omri-enta-el-noor-oh-my-life-you-are-the-light).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T08:55:40.295854 | `v1` | `f48c27f7c614dade0b636ab018517aa4e3491691c0db4db5a672c8bce4333c63` | `91fded3d14ca3f6c7f51f4472c8a61563d0cb1c44fce1b2b9cf152e0feb67eed` | `2026-05-09_ya-3omri-enta-el-noor-oh-my-life-you-are-the-light-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
